@@ -101,4 +101,32 @@
   "me": {
     "id": "94704915183:1@s.whatsapp.net",
     "lid": "92110556524593:1@lid",
-    "name": "MR SANU B
+    "name": "MR SANU BOY😈😈"
+  },
+  "account": {
+    "details": "CMqzrJoGEJeT3sMGGAEgACgA",
+    "accountSignatureKey": "qSMF+VAIlDtUnRl7MB6m0UgaHZ9Jhzsf446v945pk3g=",
+    "accountSignature": "LqReidRG2RdkXQ5yOTUMBJwAiw1OGykrCaB+Hw/5MCJx0Gq3NpzQ8wAlDmUKW0y25eoCbqQOvIVxyi9loH4qDA==",
+    "deviceSignature": "riLtJsZAM7oS2pFoGNPFx+gytt1HOC3H+NqPO6daumk3Q2AAb9bpgT+/kWgZnQaOx+5U4cWkeKCdbXDnBKMziw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94704915183:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BakjBflQCJQ7VJ0ZezAeptFIGh2fSYc7H+OOr/eOaZN4"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAUIDQ=="
+  },
+  "lastAccountSyncTimestamp": 1752671803,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAFp6"
+}
